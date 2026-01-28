@@ -1,5 +1,4 @@
 Title: Test Tool
-Date: January 28, 2026
 
 This file is used to validate GitHub Agent workflows, including:
 
